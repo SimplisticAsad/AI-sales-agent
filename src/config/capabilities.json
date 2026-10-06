@@ -1,0 +1,21 @@
+{
+  "_comment": "OPERATOR-OWNED. List only integrations/capabilities you have actually built AND tested. Anything not listed is treated as UNVERIFIED: the agents may mention it only as 'needs validation' and will never promise it. The entries below are a placeholder starter set - edit before going live.",
+  "verified_integrations": [
+    "Google Calendar",
+    "Gmail",
+    "Slack",
+    "HubSpot",
+    "Salesforce",
+    "Stripe",
+    "Twilio SMS",
+    "Zapier Webhooks",
+    "REST/Webhook APIs"
+  ],
+  "approved_service_scope": [
+    "AI chat or voice agent for inbound inquiries",
+    "Lead qualification and appointment scheduling automation",
+    "CRM data entry and sync automation",
+    "Document intake and data extraction automation",
+    "Follow-up and reminder automation"
+  ]
+}

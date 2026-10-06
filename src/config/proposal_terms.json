@@ -1,0 +1,16 @@
+{
+  "_comment": "CONTROLLED TEMPLATE. These terms are inserted verbatim by code; no LLM may write or alter them. Have counsel review before use.",
+  "payment_terms": "One-time fixed fee, payable in full upfront before work begins. No recurring charges.",
+  "support_terms": "30 days of bug-fix support after delivery for defects against the agreed deliverables. Enhancements and new features are out of scope.",
+  "standard_exclusions": [
+    "Third-party software licences, API usage fees and telephony/SMS charges",
+    "Work on integrations not listed in this proposal",
+    "Ongoing hosting or maintenance after the support period unless separately agreed in writing"
+  ],
+  "standard_assumptions": [
+    "Client provides timely access to the systems, data and people needed to implement the solution",
+    "Timelines begin after payment is confirmed and required access is provided"
+  ],
+  "legal_notice": "This proposal is a summary of commercial terms. Any change to scope, price or terms requires written approval from an authorised representative of the provider.",
+  "refund_policy": "Refunds and cancellations are handled only by a human representative; none are promised in this proposal."
+}
